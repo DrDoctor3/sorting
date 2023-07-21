@@ -1,0 +1,5 @@
+# sorting elements in aplphabetical order:
+
+stuff = ["two", "five", "backyard", "word"]
+stuff.sort()
+print(stuff)
